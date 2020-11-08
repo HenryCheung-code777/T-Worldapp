@@ -27,6 +27,7 @@ dependencies:
   carousel_slider: ^2.2.1
   flutter_staggered_grid_view:
   url_launcher:
+  flutter_icons: ^1.1.0
   #google map plugin package
   google_maps_flutter: ^0.5.24+1
   #flutter_google_places:
